@@ -81,47 +81,46 @@ I stored data in JSON files (reporters.json and issues.json) instead of a databa
 
 #### Create Reporter (POST)
 
-![Reporter POST Success](screenshots/1)%20reporter_post_success.png)
+![Reporter POST Success](screenshots/reporter_post_success.png)
 
 
 #### Get All Reporters (GET)
 
-![Reporter GET All Success](screenshots/2)%20reporter_get_all_success.png)
+![Reporter GET All Success](screenshots/reporter_get_all_success.png)
 
 
 #### Get Reporter By ID (GET)
 
-![Reporter GET By ID Success](screenshots/3)%20reporter_get_by_id_success.png)
+![Reporter GET By ID Success](screenshots/reporter_get_by_id_success.png)
 
 
 #### Reporter Not Found (404)
 
-![Reporter Not Found Error](screenshots/4)%20reporter_get_not_found_error.png)
-
+![Reporter Not Found Error](screenshots/reporter_get_not_found_error.png)
 
 
 ### Issue APIs
 
 #### Create Critical Issue (POST)
 
-![Issue POST Critical Success](screenshots/5)%20issue_post_critical_success.png)
+![Issue POST Critical Success](screenshots/issue_post_critical_success.png)
 
 
 #### Get All Issues (GET)
 
-![Issue GET All Success](screenshots/6)%20issue_get_all_success.png)
+![Issue GET All Success](screenshots/issue_get_all_success.png)
 
 
 #### Get Issue By ID (GET)
 
-![Issue GET By ID Success](screenshots/7)%20issue_get_by_id_success.png)
+![Issue GET By ID Success](screenshots/issue_get_by_id_success.png)
 
 
 #### Issue Not Found (404)
 
-![Issue Not Found Error](screenshots/8)%20issue_get_not_found_error.png)
+![Issue Not Found Error](screenshots/issue_get_not_found_error.png)
 
 
 #### Filter Issues By Status (GET)
 
-![Issue Status Filter Success](screenshots/9)%20issue_get_by_status_success.png)
+![Issue Status Filter Success](screenshots/issue_get_by_status_success.png)
